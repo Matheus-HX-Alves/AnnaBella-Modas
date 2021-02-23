@@ -1,2 +1,2 @@
 # AnnaBella-Modas
-Repositório feito para o projeto de uma marca fictícia feito praticamente em HTML5.
+Repositório feito para o projeto de uma marca fictícia realizado praticamente em HTML5.
